@@ -1,0 +1,19 @@
+﻿{
+    "ci":  [
+               0.818,
+               1
+           ],
+    "disease":  "Lung Cancer",
+    "patent":  "US 63/942,422",
+    "tier":  "GOLD",
+    "sensitivity":  0.93,
+    "pipeline":  "BPF v1.0.0",
+    "patients":  38,
+    "event_rate":  0.63,
+    "cohort":  "CGCI-HTMCP-LC",
+    "phase":  "Phase 1",
+    "events":  24,
+    "specificity":  0.92,
+    "seed":  42,
+    "auc":  0.9226
+}
